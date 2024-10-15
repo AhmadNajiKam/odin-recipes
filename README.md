@@ -1,1 +1,1 @@
-This Project is a simple website for Arabic dish recipes 
+This Project is a basic website for simple dish recipes 
